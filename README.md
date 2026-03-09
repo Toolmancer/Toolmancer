@@ -1,10 +1,10 @@
+**![Toolmancer](https://toolmancer.com/assets/img/logo.png)**
+
 # Toolmancer
 
 [![Website](https://img.shields.io/badge/Website-toolmancer.com-blue)](https://toolmancer.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows-green)]()
 [![License](https://img.shields.io/badge/License-Freeware-orange)]()
-
-![Toolmancer](https://toolmancer.com/assets/img/logo.png)
 
 Free Windows utilities including network tools, media tools, and system utilities.
 
