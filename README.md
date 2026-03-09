@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://toolmancer.com/assets/img/logo.png" width="250">
+<img src="https://toolmancer.com/assets/img/logo.png" width="300">
 </p>
 
-#Toolmancer
+# Toolmancer
 
 [![Website](https://img.shields.io/badge/Website-toolmancer.com-blue)](https://toolmancer.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows-green)]()
