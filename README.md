@@ -1,4 +1,4 @@
-**![Toolmancer](https://toolmancer.com/assets/img/logo.png)**
+<img src="https://toolmancer.com/assets/img/logo.png" width="200">
 
 # Toolmancer
 
