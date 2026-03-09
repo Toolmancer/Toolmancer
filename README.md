@@ -1,11 +1,24 @@
 # Toolmancer
 
-Toolmancer provides free Windows utilities including network tools, media tools, and system utilities.
+[![Website](https://img.shields.io/badge/Website-toolmancer.com-blue)](https://toolmancer.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows-green)]()
+[![License](https://img.shields.io/badge/License-Freeware-orange)]()
 
-Download tools here:
+Free Windows utilities including network tools, media tools, and system utilities.
+
+## Download
+
+Visit the official website to download the tools:
+
 https://toolmancer.com
 
-## Available tools
+Browse all apps:
+
+https://toolmancer.com/apps/browseallapps
+
+---
+
+## Available Tools
 
 ### Network Tools
 - IP Scanner
@@ -25,20 +38,9 @@ https://toolmancer.com
 - Registry Compare Tool
 - Registry Search Tool
 
-Browse all apps:
-https://toolmancer.com/apps/browseallapps
+---
 
-<!--
-**Toolmancer/Toolmancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Toolmancer provides lightweight utilities designed to solve common problems on Windows systems.  
+All tools are free to download with no advertisements.
