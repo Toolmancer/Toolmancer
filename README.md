@@ -1,4 +1,8 @@
-<img src="https://toolmancer.com/assets/img/logo.png" width="200">
+<p align="center">
+<img src="https://toolmancer.com/assets/img/logo.png" width="250">
+</p>
+
+#Toolmancer
 
 [![Website](https://img.shields.io/badge/Website-toolmancer.com-blue)](https://toolmancer.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows-green)]()
