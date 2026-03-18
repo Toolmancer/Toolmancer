@@ -24,6 +24,18 @@ https://toolmancer.com/apps/browseallapps
 
 ## Available Tools
 
+### File Tools
+- Batch Renamer
+- Duplicate Finder
+- File Finder
+- Folder Compare Tool
+- RoboCopy Tool
+
+### Media Tools
+- Metadata Scanner
+- Missing Episode Scanner
+- Track Stream Scanner
+
 ### Network Tools
 - IP Scanner
 - Ping Tool
@@ -31,11 +43,6 @@ https://toolmancer.com/apps/browseallapps
 - Port Scanner
 - Internet Speed Test Tool
 - Wake on LAN Tool
-
-### Media Tools
-- Metadata Scanner
-- Missing Episode Scanner
-- Track Stream Scanner
 
 ### Windows Tools
 - Port Analyzer
