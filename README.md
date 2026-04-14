@@ -41,9 +41,10 @@ https://toolmancer.com/apps/browseallapps
 - IP Scanner
 - Ping Tool
 - DNS Benchmark
-- Port Scanner
-- Internet Speed Test Tool
-- Wake on LAN Tool
+- Port-Scan Tool
+- SMTP Tester
+- SpeedTest Tool
+- Wake-on-LAN Tool
 
 ### Windows Tools
 - Port Analyzer
