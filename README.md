@@ -35,6 +35,7 @@ https://toolmancer.com/apps/browseallapps
 - Metadata Scanner
 - Missing Episode Scanner
 - Track Stream Scanner
+- Video Downloader
 
 ### Network Tools
 - IP Scanner
