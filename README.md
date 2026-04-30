@@ -29,6 +29,8 @@ https://toolmancer.com/apps/browseallapps
 - Duplicate Finder
 - File Finder
 - Folder Compare Tool
+- Folder Permission Reporter
+- Folder Size Reporter
 - RoboCopy Tool
 
 ### Media Tools
