@@ -32,6 +32,7 @@ https://toolmancer.com/apps/browseallapps
 - Folder Permission Reporter
 - Folder Size Reporter
 - RoboCopy Tool
+- Secure Archive Tool
 
 ### Media Tools
 - Metadata Scanner
