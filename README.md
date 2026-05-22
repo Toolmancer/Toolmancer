@@ -41,9 +41,10 @@ https://toolmancer.com/apps/browseallapps
 - Video Downloader
 
 ### Network Tools
+- DNS Benchmark Tool
+- FTP/SFTP Tool
 - IP Scanner
 - Ping Tool
-- DNS Benchmark
 - Port-Scan Tool
 - SMTP Tester
 - SpeedTest Tool
